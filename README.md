@@ -1,5 +1,14 @@
 # cp4 Luis Cardenas
 
+2/14
+ChatGPT
+Is like a calculator
+Can be used for test/labs
+Can give similar responses to simliar instances
+Can be used to desribe images
+Can write code but must know what you are asking for it to do
+Has flaws
+
 2/16
 Immutable Classes and Inheritance
   Is it possible to make a class so that it cannot be extended
